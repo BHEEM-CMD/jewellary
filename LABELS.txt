@@ -1,0 +1,41 @@
+Souurce_images ---> Extract Features(Catagory(RINGs), Stones, Diamonds, Letters)Using Pytorch resnet models
+---> acc to these features Perform actions on results(Having stone, Diamond, Letters)
+For that we need to trained model() ---> Web-API
+
+We don't need to detect Patterns or Design(bcz there are so many jewelry Design and Patterns).
+
+We Filter on the basis of Labels.
+
+BFD--- BRACLATE FULL DESIGN--
+BHD---BRACELATE HALF DESIGN--
+RHD---RING HALF DESIGN--
+RFD---RING FULL DESIGN--
+NHD---NECKLACE HALF DESIGN--
+NFD---NECKLACE FULL DESIGN--
+PHD---PENDANT HALF DESIGN--
+PFD---PENDANT FULL DESIGN--
+EFD---EARRING FULL DESIGN--
+EHD---EARRING HALF DESIFGN--
+DESIGN
+DESIGN_STAR
+DESIGN_STONE
+DESIGN_DIAMOND
+DESIGN_INFINITY
+DESIGN_I
+DESIGN_S
+DESIGN_D
+DESIGN_X
+DESIGN_H
+DESIGN_LEAF
+DESIGN_CIRCLE
+DESIGN_HEART
+DESIGN_EYE
+DESIGN_FACE
+DESIGN_CHARACTER
+DESIGN_CROSS
+DESIGN_ANIMAL
+DESIGN_EYE
+DESIGN_THING
+DESIGN_SQUARE
+DESIGN_HAND
+DESIGN_KEY
